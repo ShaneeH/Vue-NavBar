@@ -1,3 +1,6 @@
+// This index.js file goes inside the Route Folder 
+// src/route/index.js
+
 import { createRouter, createWebHistory } from 'vue-router';
 import Main from '../components/Main.vue';
 import About from '../components/About.vue';
