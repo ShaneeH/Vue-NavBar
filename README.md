@@ -1,2 +1,9 @@
-This is just a simple Barebone example of how to use Routes and Navigation in Vue
-You must have Installed the Router Package first to get this to work  {cmd : npm install vue-router@next}
+# Barebones Vue Router Example  
+
+This repository provides a minimal setup demonstrating how to implement **routing and navigation** in a Vue 3 application using **Vite**.  
+
+## Installation  
+
+Make sure you have installed the Vue Router package:  
+```bash
+npm install vue-router@next
